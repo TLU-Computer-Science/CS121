@@ -2,4 +2,4 @@
 ### Deadline 26/02/2018
 
 ## Problem 12: 
-Write a function that returns the largest element in a array.
+Write a function that checks whether an element occurs in a list.
