@@ -5,7 +5,7 @@
 Have the user input their birthday month/day in the format (see examples): mm/dd. Then tell them their zodiac sign. The zodiac signs we will use for grading are listed here: 
 http://www.psychicguild.com/horoscopes_explained.php
 
-You DO need to check that the month is valid. You may assume the day will be valid.
+You **DO** need to check that the month is valid. You may assume the day will be valid.
 
 Aries: March 21 - April 19
 
