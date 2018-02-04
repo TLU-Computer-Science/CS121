@@ -3,6 +3,9 @@ Advanced Programming in C++
 ## Programming project (team)
 [Programming project](https://classroom.github.com/a/U3ZmxIOn)
 
+## Ex for tet 2018
+[Ex for tet 2018](https://classroom.github.com/a/mYxZBVVw)
+
 ## Lớp 1.2 (T2)
 [Homework and lab week 05](https://classroom.github.com/a/9e6T7bUS)
 
