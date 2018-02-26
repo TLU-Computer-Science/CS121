@@ -28,7 +28,7 @@ Wishing you good health, happiness, and success in the coming year and always.
 ## Lớp 1.2 (T2)
 [Homework and lab week 05](https://classroom.github.com/a/9e6T7bUS)
 
-[Lab#6 1.2](https://classroom.github.com/a/PhActI_N)
+[Lab#6 1.2](https://classroom.github.com/a/VSdIj9jt)
 
 ## Lớp 2.2 (T5)
 [Homework#2 2.2](https://classroom.github.com/a/ikvsDsIf)
