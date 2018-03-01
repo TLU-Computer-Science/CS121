@@ -33,7 +33,8 @@ Wishing you good health, happiness, and success in the coming year and always.
 ## Class 2.2 (T5)
 [Homework#2 2.2](https://classroom.github.com/a/ikvsDsIf)
 
-[Lab#6 2.2](https://classroom.github.com/a/g95K7y3R) 
+[Lab#6 2.2](https://classroom.github.com/a/g95K7y3R)
+[Ex 6](https://cstlu.github.io/CS121/Homeworks/arrayex.png)
 [partner.cpp](https://github.com/CSTLU/CS121/blob/master/Codes/partner.cpp)
 ## Class 3.1 (T7)
 [Lab and Homework#5 3.1](https://classroom.github.com/a/FtLCP6AB)
