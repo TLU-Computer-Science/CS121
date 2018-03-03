@@ -38,3 +38,6 @@ Wishing you good health, happiness, and success in the coming year and always.
 [partner.cpp](https://github.com/CSTLU/CS121/blob/master/Codes/partner.cpp)
 ## Class 3.1 (T7)
 [Lab and Homework#5 3.1](https://classroom.github.com/a/FtLCP6AB)
+
+[Lab#6 3.1](https://classroom.github.com/a/Oo5NGncZ)
+[midterm]()
