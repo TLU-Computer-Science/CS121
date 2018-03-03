@@ -41,4 +41,4 @@ Wishing you good health, happiness, and success in the coming year and always.
 
 [Lab#6 3.1](https://classroom.github.com/a/Oo5NGncZ)
 
-[midterm](https://classroom.github.com/a/HgAvAgP0)
+[midterm (deadline 16h00 - 4/3/2018 ](https://classroom.github.com/a/HgAvAgP0)
