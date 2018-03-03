@@ -41,4 +41,4 @@ Wishing you good health, happiness, and success in the coming year and always.
 
 [Lab#6 3.1](https://classroom.github.com/a/Oo5NGncZ)
 
-[midterm]()
+[midterm](https://classroom.github.com/a/HgAvAgP0)
