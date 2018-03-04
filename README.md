@@ -29,7 +29,7 @@ Wishing you good health, happiness, and success in the coming year and always.
 [Homework and lab week 05](https://classroom.github.com/a/9e6T7bUS)
 
 [Lab#6 1.2](https://classroom.github.com/a/1cagSefB)
-[partner.cpp](https://github.com/CSTLU/CS121/blob/master/Codes/partner.cpp)
+
 ## Class 2.2 (T5)
 [Homework#2 2.2](https://classroom.github.com/a/ikvsDsIf)
 
