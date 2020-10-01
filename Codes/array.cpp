@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int n;
-	int array[100];
+	int findmax[100];
 	cout<<"Enter n: "; 
 	cin>>n;
 
@@ -12,21 +12,21 @@ int main()
 	for (int i = 0; i < n; ++i)
 	{
 		cout<<"Enter number "<<i+1<<" ";
-		cin>>array[i];
+		cin>>findmax[i];
 	}
 
 	// doan code cua minh duoi day dung de in n pt ra man hinh
 	for (int i = 0; i < n; ++i)
 	{
-		cout<<array[i]<<" ";
+		cout<<findmax[i]<<" ";
 	}
 
 	int max = array[0];
 	for (int i = 1; i < n; ++i)
 	{
-		if (max < array[i])
+		if (max < findmax[i])
 		{
-			max = array[i];
+			max = findmax[i];
 		}
 	}
 	cout<<"Max: "<<max<<endl;
